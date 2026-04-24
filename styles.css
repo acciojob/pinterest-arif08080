@@ -1,11 +1,9 @@
 /*  your css code here. If applicable */
 .hero{
 	display: flex;
-	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	text-align: center;
-	padding: 20px;
+	flex-direction: column;
 	
 }
 
@@ -18,8 +16,7 @@ img{
 button{
 	color: white;
 	background-color:red;
-	padding: 10px 20px;
     border: none;
-    border-radius: 20px;
+    border-radius: 4px;
     font-weight: bold;
 }
